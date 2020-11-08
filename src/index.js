@@ -1,3 +1,6 @@
+import './css/common.css';  
+
+
 console.log('Это index.js');
 const a = 2;
 console.log(a);
